@@ -6,6 +6,8 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         //FORM B
+        //FORM A
+
     }
 
     // Update is called once per frame
